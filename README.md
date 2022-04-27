@@ -3,7 +3,7 @@
 
 A *powerlifting-focused* web-app designed for tracking weight statistics and creating custom weightlifting programs.
 
-- This repository houses the client-side of my web application *GymJot*. As such, most of the details mentioned here are largely front-end related. If you want to learn more about my front-end, please visit [GymJot's server-side repository](https://github.com/Haz-git/GymJot-Server)!
+- This repository houses the client-side of my web application *GymJot*. As such, most of the details mentioned here are largely front-end related. If you want to learn more about my back-end, please visit [GymJot's server-side repository](https://github.com/Haz-git/GymJot-Server)!
 
 ### About The Project
 
