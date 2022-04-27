@@ -37,7 +37,7 @@ I decided to leverage my development skills to create my own progressive web-app
 
   
 ## Feature Highlights
----
+
 **Here are just a few features in *GymJot***
 
 New guests can follow a comprehensive **onboarding tutorial**, where you can explore the different features of the app.
