@@ -40,10 +40,13 @@ I decided to leverage my development skills to create my own progressive web-app
 
 **Here are just a few features in *GymJot***
 
-New guests can follow a comprehensive **onboarding tutorial**, where you can explore the different features of the app.
+New guests can follow a comprehensive **onboarding tutorial**, where you are introduced to the different features of the app.
 
 ![](https://media.giphy.com/media/UsUmRmf7VLOgb9RHyV/giphy.gif)
 
+In *GymJot's* **Stat Log**, record any exercise that you perform in the gym, outside, or whatever! Within each exercise, stash records to note your progress.
+
+![](https://media.giphy.com/media/2JSvV3oSk3pleHy4eK/giphy.gif)
 
 ## Authors
 
