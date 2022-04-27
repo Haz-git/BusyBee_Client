@@ -48,6 +48,10 @@ In *GymJot's* **Stat Log**, record any exercise that you perform in the gym, out
 
 ![](https://media.giphy.com/media/2JSvV3oSk3pleHy4eK/giphy.gif)
 
+*GymJot's* **Program Manager** allows any fitness enthusiast to customize, design, and run their own complex workout programs.
+
+![](https://media.giphy.com/media/nZ1Bg86NqnddbfRy5r/giphy.gif)
+
 ## Authors
 
 - [@Haz-git](https://github.com/Haz-git)
