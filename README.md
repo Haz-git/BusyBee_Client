@@ -36,7 +36,13 @@ I decided to leverage my development skills to create my own progressive web-app
 4. 'Log in' to start exploring the app! *For new users, the tutorial is highly recommended*.
 
   
-## Features
+## Feature Highlights
+---
+**Here are just a few features in *GymJot***
+
+New guests can follow a comprehensive **onboarding tutorial**, where you can explore the different features of the app.
+
+![](https://media.giphy.com/media/UsUmRmf7VLOgb9RHyV/giphy.gif)
 
 
 ## Authors
