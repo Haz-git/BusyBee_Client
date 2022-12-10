@@ -4,7 +4,7 @@ import axios from 'axios';
 
 const axiosInstance = axios.create({
     // baseURL: 'http://localhost:7467/api',
-    baseURL: 'https://gymjot.herokuapp.com/api',
+    baseURL: 'https://gymjot-v1-server.onrender.com',
     withCredentials: true,
     headers: {
         Authorization: JSON.parse(localStorage.getItem('jwt')),
